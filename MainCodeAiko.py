@@ -146,7 +146,7 @@ async def on_message(message):
     #-----------------------------------------------
             
 
-client.run('NzIwMjc2MzMzNzgyODkyNjM2.XuDnnA.LVhJ0Gp7e2OUp1RZQs7U8Ankzoc')
+client.run('insert token here')
 
 #Id de ray  324383693248659456
 #Id de jesusu  166675689506996234
