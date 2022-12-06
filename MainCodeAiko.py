@@ -110,19 +110,6 @@ async def on_message(message):
             
         if (valor == 1):
             await message.channel.send('Eres el mejor')
-            
-        if (valor == 2):
-            await message.channel.send('Mejor ponte a traducir')
-            
-        if (valor == 3):
-            await message.channel.send('Donde esta la novela?')
-            
-        if (valor == 4):
-            await message.channel.send('Ya desayunaste?')
-            
-        if (valor == 5):
-            await message.channel.send('Hola Ray, nomas queria tomarme este minuto para decir que te quiero, eres una gran persona, si estas pasando por un mal momento en tu vida sabe que tienes amigos con quien platicar y se tomarian el tiempo para escucharte. Nos sentimos bendecidos porque te tenemos alrededor de nosotros y esperamos que sigas ahi. Hemos pasado por muchos momentos de risa y estamos agradecidos por ello. Eres la persona que se puede contar para tener unas buenas risas.')
-        
     
     #Codigo para el texto de Mucho Texto
     global id
@@ -147,9 +134,3 @@ async def on_message(message):
             
 
 client.run('insert token here')
-
-#Id de ray  324383693248659456
-#Id de jesusu  166675689506996234
-#Id de paco  210469827972694016
-#Id de Oscar  129103410912952320
-#Id de Mau  289032318482382848
