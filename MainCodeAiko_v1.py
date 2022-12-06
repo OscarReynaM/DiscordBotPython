@@ -135,9 +135,3 @@ async def on_message(message):
             
 
 client.run('insert token here')
-
-#Id de ray  324383693248659456
-#Id de jesusu  166675689506996234
-#Id de paco  210469827972694016
-#Id de Oscar  129103410912952320
-#Id de Mau  289032318482382848
